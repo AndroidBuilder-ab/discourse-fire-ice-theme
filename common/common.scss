@@ -36,9 +36,11 @@ body {
 }
 
 .menu-panel .panel-body-bottom .btn {
-  background: $header-gradient;
+  border: #1761fd 1px solid;
+  color: #1761fd;
   &.btn:hover {
-    background: $color-fire;
+    background: #202342 1px solid;
+    color: #202342;
   }
 }
 
